@@ -61,3 +61,5 @@ typings/
 
 
 .idea
+.gitignore
+.idea/inspectionProfiles/
